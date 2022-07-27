@@ -20,4 +20,4 @@ https://qulian-apk.oss-cn-beijing.aliyuncs.com/apk/KeepAlivePro.apk
 
 ## 微信（添加时请备注保活）
 
-kacppp
+wkxiaoxie
