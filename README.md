@@ -14,8 +14,8 @@ https://keepalive-xie.oss-cn-hangzhou.aliyuncs.com/keepAlive.apk
 ```
 ## 效果图
 
-![oppo12](https://qulian-apk.oss-cn-beijing.aliyuncs.com/apk/oppo.gif)
-![小米10](https://qulian-apk.oss-cn-beijing.aliyuncs.com/apk/xiaomi.gif)
+![oppo12](https://keepalive-xie.oss-cn-hangzhou.aliyuncs.com/img/oppo.gif)
+![小米10](https://keepalive-xie.oss-cn-hangzhou.aliyuncs.com/img/xiaomi.gif)
 
 
 ## 微信（添加时请备注保活）
