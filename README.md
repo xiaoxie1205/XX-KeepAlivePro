@@ -9,7 +9,7 @@ KeepAlivePro
 
 ## 测试APK包
 ```
-https://qulian-apk.oss-cn-beijing.aliyuncs.com/apk/KeepAlivePro.apk
+https://keepalive-xie.oss-cn-hangzhou.aliyuncs.com/keepAlive.apk
 
 ```
 ## 效果图
