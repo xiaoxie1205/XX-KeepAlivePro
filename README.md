@@ -27,4 +27,4 @@ https://keepalive-xie.oss-cn-hangzhou.aliyuncs.com/keepAlive.apk
 
 ## 微信（添加时请备注保活）
 
-wkxiaoxie
+qiming3062
