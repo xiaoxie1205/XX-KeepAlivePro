@@ -18,7 +18,7 @@ KeepAlive
 
 ## 测试APK包
 ```
-https://maoyun-walk.oss-cn-beijing.aliyuncs.com/keepAlive/keepAlive-xx.apk
+https://maoyun-walk.oss-cn-beijing.aliyuncs.com/keepAlive/keepAlivekeepAlive-xx.apk
 
 ```
 ## 效果图
